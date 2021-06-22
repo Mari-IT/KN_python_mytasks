@@ -1,30 +1,41 @@
-# mytask0
+# mytask1
 Repository for studing
 
 1.Клонування репозиторію (git clone):
 
-![image](https://user-images.githubusercontent.com/85627400/122042992-81918500-cde3-11eb-8d20-6960b1d4d3dc.png)
+![image](https://user-images.githubusercontent.com/85627400/122898548-a641ab80-d353-11eb-8bdb-11154fcf5031.png)
 
 2. Перехід до папки з файлами (cd):
 
-![image](https://user-images.githubusercontent.com/85627400/122043101-a128ad80-cde3-11eb-9f9d-478282c44da8.png)
+![image](https://user-images.githubusercontent.com/85627400/122898647-b9547b80-d353-11eb-9013-4ea4f820a6f8.png)
 
-3. Додавання файлу mycode.py (git add):
+3. Перевіряємо вміст сховища (git status):
 
-![image](https://user-images.githubusercontent.com/85627400/122043274-d33a0f80-cde3-11eb-9b59-78352621a8d0.png)
+![image](https://user-images.githubusercontent.com/85627400/122898988-105a5080-d354-11eb-8bf9-d0c92b170bce.png)
 
-4. Підтвердження змін (git commit -m "first commit"):
 
-![image](https://user-images.githubusercontent.com/85627400/122043388-f6fd5580-cde3-11eb-94fb-298c25f38faf.png)
+4. Додавання нових папок (файлів) відповідно до завдання та перевірка наявності змін (git add ./ git status):
+
+![image](https://user-images.githubusercontent.com/85627400/122899525-924a7980-d354-11eb-9ada-940312262b29.png)
+
+4. Підтвердження змін (git commit -m "Adding new folsers"):
+
+![image](https://user-images.githubusercontent.com/85627400/122899717-ba39dd00-d354-11eb-8e56-6bd6ffadcfcd.png)
 
 5. Завантаження даних (git push):
 
-![image](https://user-images.githubusercontent.com/85627400/122043543-1e542280-cde4-11eb-8662-be435918c64a.png)
+![image](https://user-images.githubusercontent.com/85627400/122899844-db9ac900-d354-11eb-9df7-c3d78b136f2c.png)
+
+6. Підвантаження файлу README до даної папки:
+
+![image](https://user-images.githubusercontent.com/85627400/122900248-2f0d1700-d355-11eb-8724-dfe1c4e26760.png)
+![image](https://user-images.githubusercontent.com/85627400/122900306-3df3c980-d355-11eb-927c-1b3e6e80d278.png)
+
+7. Приклад виконання коду відповідно до завдання:
+
+![image](https://user-images.githubusercontent.com/85627400/122900830-ad69b900-d355-11eb-9433-535ff10dd2c1.png)
 
 
-Завдання 7*: Налаштування ssh-ключів для доступу до акаунта без постійної верифікації:
 
-Генерування ssh-ключів за допогою команди ssh-keygen . З папки користувача беремо публічний ключ і додаємо в налаштуваннях новий ssh-ключ
 
-![image](https://user-images.githubusercontent.com/85627400/122046863-19916d80-cde8-11eb-9c1c-f5fbc70fe2dd.png)
-![image](https://user-images.githubusercontent.com/85627400/122049518-30858f00-cdeb-11eb-9fb1-bbe77be6f0f0.png)
+
