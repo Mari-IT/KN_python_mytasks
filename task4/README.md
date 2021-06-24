@@ -14,3 +14,5 @@ Repository for studing
 3. Реалізація можливості запису даної статистики в txt файл, який бот буде відправляти користувачу. 
 
 ![image](https://user-images.githubusercontent.com/85627400/123331117-84107f00-d547-11eb-8a90-b8deaa1b022a.png)
+
+Посилання на бота: t.me/asiancovidtrackerbot
